@@ -7,7 +7,7 @@ import { collection, addDoc } from 'firebase/firestore';
 import {useAuthState} from "react-firebase-hooks/auth"
 import name  from "../name.png";
 
-const API_TOKEN = "API_TOKEN";
+const API_TOKEN = "YOUR_API_TOKEN"; //make your own API_TOKEN from stable diffusion
 
 const ImageGenerationForm = () => {
   const [loading, setLoading] = useState(false);
