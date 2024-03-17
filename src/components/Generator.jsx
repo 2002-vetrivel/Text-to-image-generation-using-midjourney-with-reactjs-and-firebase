@@ -7,8 +7,7 @@ import { collection, addDoc } from 'firebase/firestore';
 import {useAuthState} from "react-firebase-hooks/auth"
 import name  from "../name.png";
 
-//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
-const API_TOKEN = "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";
+const API_TOKEN = "API_TOKEN";
 
 const ImageGenerationForm = () => {
   const [loading, setLoading] = useState(false);
