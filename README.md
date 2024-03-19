@@ -39,27 +39,29 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-TEXT TO IMAGE GENERATION USING MIDJOURNEY WITH REACTJS AND FIREBASE:
+## TEXT TO IMAGE GENERATION USING MIDJOURNEY WITH REACTJS AND FIREBASE:
 
 This  project seamlessly converts text into images using Mid-journey's API, providing users with a quick and efficient way to create visual content.
 By combining Mid-journey with ReactJS for the frontend and Firebase for the backend, we offer a comprehensive solution for text-to-image generation, ensuring a smooth user experience.
 This project aims to enhance user engagement by enabling them to create visually appealing content from their text inputs, fostering creativity and interaction with the platform.
 
-SCOPE:
+## SCOPE:
 
 Simplifying Image Creation: This project aims to simplify the process of generating images by utilizing Mid-journey's API to convert text prompts into visual representations effortlessly.
 Enhancing Creativity: By providing a platform to generate images from prompts, this project encourages creativity and imagination, allowing users to explore new ideas visually.
 Seamless Integration: With Mid-journey's API, this project offers a seamless integration for users, providing a user-friendly experience for creating images from text.
 
+## ARCHITECTURE
+
 ![image](https://github.com/2002-vetrivel/Text-to-image-generation-using-midjourney-with-reactjs-and-firebase/assets/95219637/57300a18-2974-4613-aaa9-e2e82c77fe8a)
 
-OUTPUT & RESULT: 
+## OUTPUT & RESULT: 
 
 ![image](https://github.com/2002-vetrivel/Text-to-image-generation-using-midjourney-with-reactjs-and-firebase/assets/95219637/5ee29879-62b2-4a32-9660-f54d63b0161e)
 
 ![image](https://github.com/2002-vetrivel/Text-to-image-generation-using-midjourney-with-reactjs-and-firebase/assets/95219637/caef977f-ede0-4b77-a4f7-b6e80c19d1b0)
 
-REFERENCE:
+## REFERENCE:
 
 1. K. Grace, J- Salvatier, A. Dafoe, B. Zhang, and O. Evans, Viewpoint: When will AI exceed human performance? Evidence from AI experts. Journal of Artificial Intelligence Research, 62, 729–754, 2019. 
 
