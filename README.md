@@ -51,7 +51,7 @@ Simplifying Image Creation: This project aims to simplify the process of generat
 Enhancing Creativity: By providing a platform to generate images from prompts, this project encourages creativity and imagination, allowing users to explore new ideas visually.
 Seamless Integration: With Mid-journey's API, this project offers a seamless integration for users, providing a user-friendly experience for creating images from text.
 
-## ARCHITECTURE
+## ARCHITECTURE:
 
 ![image](https://github.com/2002-vetrivel/Text-to-image-generation-using-midjourney-with-reactjs-and-firebase/assets/95219637/57300a18-2974-4613-aaa9-e2e82c77fe8a)
 
