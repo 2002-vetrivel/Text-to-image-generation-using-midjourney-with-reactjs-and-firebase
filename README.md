@@ -1,4 +1,4 @@
-![image](https://github.com/2002-vetrivel/Text-to-image-generation-using-midjourney-with-reactjs-and-firebase/assets/95219637/b6f01aec-de01-4a3c-8532-40ad18839def)![image](https://github.com/2002-vetrivel/Text-to-image-generation-using-midjourney-with-reactjs-and-firebase/assets/95219637/ae91161b-9a25-4b04-ae4f-6ac44a16b6de)# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
