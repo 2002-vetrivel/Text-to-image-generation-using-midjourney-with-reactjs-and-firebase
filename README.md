@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+![image](https://github.com/2002-vetrivel/Text-to-image-generation-using-midjourney-with-reactjs-and-firebase/assets/95219637/b6f01aec-de01-4a3c-8532-40ad18839def)![image](https://github.com/2002-vetrivel/Text-to-image-generation-using-midjourney-with-reactjs-and-firebase/assets/95219637/ae91161b-9a25-4b04-ae4f-6ac44a16b6de)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -38,6 +38,33 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+TEXT TO IMAGE GENERATION USING MIDJOURNEY WITH REACTJS AND FIREBASE:
+
+This  project seamlessly converts text into images using Mid-journey's API, providing users with a quick and efficient way to create visual content.
+By combining Mid-journey with ReactJS for the frontend and Firebase for the backend, we offer a comprehensive solution for text-to-image generation, ensuring a smooth user experience.
+This project aims to enhance user engagement by enabling them to create visually appealing content from their text inputs, fostering creativity and interaction with the platform.
+
+SCOPE:
+
+Simplifying Image Creation: This project aims to simplify the process of generating images by utilizing Mid-journey's API to convert text prompts into visual representations effortlessly.
+Enhancing Creativity: By providing a platform to generate images from prompts, this project encourages creativity and imagination, allowing users to explore new ideas visually.
+Seamless Integration: With Mid-journey's API, this project offers a seamless integration for users, providing a user-friendly experience for creating images from text.
+
+![image](https://github.com/2002-vetrivel/Text-to-image-generation-using-midjourney-with-reactjs-and-firebase/assets/95219637/57300a18-2974-4613-aaa9-e2e82c77fe8a)
+
+OUTPUT & RESULT: 
+
+![image](https://github.com/2002-vetrivel/Text-to-image-generation-using-midjourney-with-reactjs-and-firebase/assets/95219637/5ee29879-62b2-4a32-9660-f54d63b0161e)
+
+![image](https://github.com/2002-vetrivel/Text-to-image-generation-using-midjourney-with-reactjs-and-firebase/assets/95219637/caef977f-ede0-4b77-a4f7-b6e80c19d1b0)
+
+REFERENCE:
+
+1. K. Grace, J- Salvatier, A. Dafoe, B. Zhang, and O. Evans, Viewpoint: When will AI exceed human performance? Evidence from AI experts. Journal of Artificial Intelligence Research, 62, 729–754, 2019. 
+
+2. Weixi Feng, Xuehai He, Tsu-Jui Fu, Varun Jampani, Ar- jun Reddy Akula, Pradyumna Narayana, Sugato Basu, Xin Eric Wang, and William Yang Wang. Training- free structured diffusion guidance for compositional text-to- image synthesis. In International Conference on Learning Representations (ICLR), 2023. 
+
 
 ## Learn More
 
